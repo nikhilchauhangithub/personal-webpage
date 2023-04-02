@@ -161,7 +161,7 @@
 </div>
 <img class="me" src="assets/images/nikhilprofile.png" alt="Me">
 
-<h2 class="address">Base in India</h2>
+<h2 class="address">Based in India</h2>
 <p class="copyright">&copy; 2022 Nikhil. All Rights Reserved</p>
 <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
 <li>
@@ -191,7 +191,7 @@
 </div>
 <img class="me" src="assets/images/me.jpg" alt="Me">
 
-<h2 class="address">Base in India</h2>
+<h2 class="address">Based in India</h2>
 <p class="copyright">&copy; 2023 Nikhil. All Rights Reserved</p>
 <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
 <li>
